@@ -1,0 +1,8 @@
+The data on this CD-ROM come under the same copyright as my thesis:
+
+"Lung cancer mortality prediction using multi-state population smoking 
+models."
+
+Mark Clements
+University of Sydney
+2002
